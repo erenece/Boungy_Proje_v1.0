@@ -24,9 +24,10 @@ Boingy Game is a simple and fun 2D platformer developed with Unity. The goal is 
 * **Language:** C#
 * **IDE:** Visual Studio / VS Code
 
-## <img width="2560" height="1440" alt="Screenshot 2025-12-15 221501" src="https://github.com/user-attachments/assets/cee08afc-38a7-4b0b-87c7-afcfb1a3e633" />
+## 
 <img width="2560" height="1440" alt="Screenshot 2025-12-15 221343" src="https://github.com/user-attachments/assets/58b14e82-3c99-4ce9-9c64-c778f2cff476" />
 <img width="2560" height="1440" alt="Screenshot 2025-12-15 221433" src="https://github.com/user-attachments/assets/38638676-d8d7-4956-934d-a44e90a5f7d9" />
+<img width="2560" height="1440" alt="Screenshot 2025-12-15 221501" src="https://github.com/user-attachments/assets/cee08afc-38a7-4b0b-87c7-afcfb1a3e633" />
 
 
 ---
